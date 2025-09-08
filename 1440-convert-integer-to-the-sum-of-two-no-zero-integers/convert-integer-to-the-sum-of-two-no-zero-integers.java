@@ -8,7 +8,7 @@ class Solution {
             if(a>0 && b>0 && sum==n && isnozero(a) && isnozero(b)){
                arr[0]=a;
                arr[1]=b;
-               break;
+               //break;
             }
     // Integer[] res=arr.toArray(new Integer[0]);
         }
